@@ -1,6 +1,5 @@
 import java.io.IOException;
-
-import com.facebook.api.*;import javax.servlet.ServletException;
+import javax.servlet.ServletException;
 import javax.servlet.http.*;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.*;
