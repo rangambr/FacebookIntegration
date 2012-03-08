@@ -46,22 +46,10 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>jason</groupId>
-            <artifactId>jason</artifactId>
-            <version>1.0</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
             <groupId>com.facebook.api</groupId>
             <artifactId>facebook-java-api</artifactId>
             <version>2.0.0</version>
             <type>jar</type>
-        </dependency>
-        <dependency>
-            <groupId>com.google.code.facebook-java-api</groupId>
-            <artifactId>facebook-java-api</artifactId>
-            <version>2.0.1</version>
-            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>javax</groupId>
