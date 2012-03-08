@@ -1,1 +1,2 @@
-web:    java -cp target/classes:target/dependency/* FacebookIntegrationServ
+web:    java -cp target/classes:target/dependency/* 
+FacebookIntegrationServ
