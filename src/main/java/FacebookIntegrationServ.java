@@ -8,8 +8,8 @@ import java.io.PrintWriter;
 
 public class FacebookIntegrationServ extends HttpServlet {
 
-    String appapikey = new String("762- your api key here -a7fb73627afdda0");
-    String appsecret = new String("90e- your api secret here -7b47df6d957e");
+    String appapikey = new String("762-254419314641601-a7fb73627afdda0");
+    String appsecret = new String("90e-4df45ba70be7040e6b2d95ce4e340834-7b47df6d957e");
 
     //Facebook loginPage to this application.  Parameter canvas=true shows the result in Facebook canvas
     String loginPage = "http://www.facebook.com/login.php?api_key="+"00b0049fc7cf0d1e4a4ba2ea3e55b269"+"&v=1.0&canvas=true";
