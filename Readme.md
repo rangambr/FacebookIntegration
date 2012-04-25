@@ -24,7 +24,7 @@ Restart Apache, and you should be able to visit your app at its local URL.
 Deploy to Heroku via Facebook integration
 -----------------------------------------
 
-The easiest way to deploy is to create an app on Facebook and click Cloud Services -> Get Started, then choose PHP from the dropdown.  You can then `git clone` the resulting app from Heroku.
+The  easiest abc abc way to deploy is to create an app on Facebook and click Cloud Services -> Get Started, then choose PHP from the dropdown.  You can then `git clone` the resulting app from Heroku.
 
 Deploy to Heroku directly
 -------------------------
