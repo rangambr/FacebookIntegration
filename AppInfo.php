@@ -1,7 +1,7 @@
 <?php
 
 /**
- * This class provides static methods that return pieces of data specific to
+ *  class provides static methods that return pieces of data specific to
  * your app
  */
 class AppInfo {
